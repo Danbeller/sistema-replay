@@ -1,0 +1,6 @@
+{
+  "TARGET_FPS": 120,
+  "REPLAY_SECONDS": 30,
+  "JPEG_QUALITY": 70,
+  "CAPTURE_MODE": "webcam"
+}
